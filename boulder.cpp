@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Boulder Class Implementation                                                *
- * For Pacman Game (COMP 11 Project 1 | 2016 Spring)                           *
+ * For Pacman Game (COMP 11 Project 1 |  2016 Spring)                          *
  ******************************************************************************/
 
 #include <iostream>
